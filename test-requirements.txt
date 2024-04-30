@@ -50,7 +50,7 @@ exceptiongroup==1.2.0 ; python_version < "3.11"
     # via
     #   -r test-requirements.in
     #   pytest
-idna==3.6
+idna==3.7
     # via
     #   -r test-requirements.in
     #   requests
