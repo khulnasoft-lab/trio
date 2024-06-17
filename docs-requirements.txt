@@ -110,7 +110,7 @@ tomli==2.0.1
     # via towncrier
 towncrier==23.11.0
     # via -r docs-requirements.in
-urllib3==2.2.1
+urllib3==2.2.2
     # via requests
 zipp==3.19.1
     # via
